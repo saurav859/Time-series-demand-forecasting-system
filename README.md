@@ -104,8 +104,12 @@ Evaluated using standard regression metrics:
 | MAE      | Robust to outliers              |
 
 ---
+## Feature Engineering
+- Extracted hour and weekday
+- Created weekend indicator
+- Generated interaction between temperature and humidity
 
-## 🚀 How to Run the Project
+🚀 How to Run the Project
 
 ### 1. Clone Repository
 
