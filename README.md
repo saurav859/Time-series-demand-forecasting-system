@@ -109,39 +109,6 @@ Evaluated using standard regression metrics:
 - Created weekend indicator
 - Generated interaction between temperature and humidity
 
-🚀 How to Run the Project
-
-### 1. Clone Repository
-
-```bash
-git clone <repository_url>
-cd bike-rental-prediction
-```
-
-### 2. Create Virtual Environment (Optional)
-
-```bash
-python -m venv venv
-source venv/bin/activate
-```
-
-### 3. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run Notebook
-
-```bash
-jupyter notebook
-```
-
----
-
-## 📦 Project Structure
-
-```
 bike-rental-prediction/
 │
 ├── data/
