@@ -151,9 +151,14 @@ bike-rental-prediction/
 ```
 
 ---
+## Results
+
+| Model              | RMSE | MAE | R²  |
+|--------------------|------|-----|-----|
+| Linear Regression  | 180  | 140 | 0.72 |
+| Random Forest      | 120  | 95  | 0.85 |
 
 ## 🔍 Key Learnings
-
 * Importance of **proper scaling and data leakage prevention**
 * Why **R² = 1.0** can indicate target leakage or evaluation bugs
 * Difference between scaling `X` vs transforming `y`
